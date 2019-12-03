@@ -1,5 +1,5 @@
 # SeekBarPreview
-Description : Preview thumbnails on SeekBar with a movie file or an video url.
+Description : Preview thumbnails on SeekBar with a movie file or a video url.
 
 This project is copied from [CorradiSebastian's one](https://github.com/CorradiSebastian/SeekBarPreview), 
 which doen't work.
