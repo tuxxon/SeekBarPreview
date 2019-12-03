@@ -13,5 +13,6 @@ Anyway, It will work fine.
 -. For initializing, it is slow. 
 
 
-
+# Related
+-. https://github.com/rubensousa/PreviewSeekBar
 
